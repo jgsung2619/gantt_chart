@@ -440,7 +440,7 @@ def trigger(issue_search_convert, sheetname):
         horizontal='center', vertical='center')
     sheet1.freeze_panes = 'J2'  # 틀고정
 
-    wb.save("D:/test/(200320)webOS SW Gantt.xlsx")
+    wb.save("(200320)webOS SW Gantt.xlsx")
     # wb.save("D:/test/gantttest.xlsx")
 
 if __name__ == "__main__":
