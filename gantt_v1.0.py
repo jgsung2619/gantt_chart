@@ -15,8 +15,8 @@ from openpyxl.drawing import Drawing
 
 DevTracker = 'http://hlm.lge.com/issue'
 QTracker = 'http://hlm.lge.com/qi'
-ID = "goosung.jung"
-PASSWORD = "wjdrntjd3570!"
+ID = # insert ID
+PASSWORD = # insert PW
 FILENAME = "D:/test/newGantt.xlsx"
 
 # jira = JIRA(DevTracker, basic_auth=(ID, PASSWORD))
